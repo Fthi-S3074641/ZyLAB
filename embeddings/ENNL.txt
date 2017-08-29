@@ -1,0 +1,3 @@
+# download wordvec and put it here
+
+word embeddings in the folder .../embeddings (https://github.com/Kyubyong/wordvectors)
